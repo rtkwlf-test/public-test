@@ -8,9 +8,9 @@ metadata:
   description: "<SET DESC>" # YOU MUST SET THIS
   annotations:
     backstage.io/code-coverage: enabled/disabled
-    backstage.io/source-location: url:https://github.com/${.Org}/${.Repo}
+    backstage.io/source-location: url:https://github.com/rtkwlf-test/public-test
     backstage.io/techdocs-ref: "dir:."
-    github.com/project-slug: "${.Org}/{.Repo}"
+    github.com/project-slug: "rtkwlf-test/public-test"
     jira/project-key: "<JIRA KEY>" # YOU MUST SET THIS
     jira/label: "project" # YOU MUST SET THIS
   tags:
